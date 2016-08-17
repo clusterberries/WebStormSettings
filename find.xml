@@ -1,0 +1,19 @@
+<application>
+  <component name="FindSettings">
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.less</mask>
+      <mask>-*.less</mask>
+      <mask>*.html</mask>
+      <mask>*.js</mask>
+      <mask>!*Spec.js</mask>
+      <mask>.js</mask>
+    </recentFileMasks>
+  </component>
+</application>

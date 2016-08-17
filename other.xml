@@ -1,0 +1,14 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="D:/UNIF-CIRC/project/ansibleclient/src/electron/node_modules/.bin/electron">
+      <version-cache last-modified="1463753493216" />
+      <npm-package value="C:/Program Files/nodejs/node_modules/npm" />
+    </local-interpreter>
+    <local-interpreter path="D:/UNIF-CIRC/project/ansibleclient/src/electron/node_modules/.bin/electron.cmd">
+      <version-cache last-modified="1463753493216" />
+    </local-interpreter>
+    <local-interpreter path="C:/Program Files/nodejs/node.exe">
+      <version-cache version="4.4.0" last-modified="1457480366000" />
+    </local-interpreter>
+  </component>
+</application>
